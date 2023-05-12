@@ -1,0 +1,62 @@
+body{
+   margin: 0;
+   padding: 0;
+   font-family: 'Open Sans', sans-serif;
+   font-size: 24px;
+   font-weight: 500;
+   line-height: 50px;
+}
+.top-bar{
+    background-color: #FF6B27;
+    text-align: center;
+    padding: 13px;
+}
+.banner{
+    height: 450px;
+    background-image: url(images/hero_bolo.jpg);
+    background-size: cover;
+}
+.container{
+    max-width: 1080px;
+    margin: auto;
+}
+h1,
+h2{
+    color: #FF6B27;
+    font-weight: 700;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;    
+}
+.titulo{
+    margin: 120px 0;
+}
+.subTitulo{
+    margin: 200px 0 20px 125px;
+}
+.ingredientes{
+    margin-left: 170px;
+}
+.botao{
+    text-decoration: none;
+    color: white;
+    background-color: #FF6B27;
+    padding: 15px;
+    border-radius: 19px;
+}
+#contato{
+    width: 500px;
+    font-size: 15px;
+    line-height: 23px;
+    margin: auto;
+    color: white;
+}
+footer{
+    padding: 10px;
+    background-color: #FF6B27;
+    text-align: center;
+    margin-top: 80px;
+}
